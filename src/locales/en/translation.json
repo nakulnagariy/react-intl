@@ -1,0 +1,17 @@
+{
+  "introduction": "Hello world!",
+  "pages": {
+    "home": "Home",
+    "about": "About",
+    "404": "Page not found"
+  },
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "help": "Help",
+    "404": "Page not found"
+  },
+  "footer": {
+    "created": "Created by you!"
+  }
+}
